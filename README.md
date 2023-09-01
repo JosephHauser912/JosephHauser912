@@ -16,13 +16,14 @@ I am currently in the process of transitioning from a teaching career to a data 
 
 Here are some of the projects I've worked on during my transition to data science:
 
-### Project 1: [Project Name]
+### Project 1: SQL Challenge
 
-- Description: A brief description of the project.
-- GitHub Repository: [Sample Work](https://github.com/JosephHauser912/Advanced-Data.git))
-- Technologies Used: List the technologies, libraries, and tools used in the project.
+- Description: Using SQLAlchemy in Jupyter Notebook, design queries into weather reporting sqlite databases
+- GitHub Repository:[https://github.com/JosephHauser912/Advanced-Data.git](https://github.com/JosephHauser912/SQL_Challenge.git)
+- Technologies Used: matplotlib, pandas, datetime, sqlalchemy
 
-![Project 1 Screenshot](project1_screenshot.png)
+![Project 1 Screenshot](https://github.com/JosephHauser912/JosephHauser912/assets/67341300/54ff5d31-358e-40dc-99fe-a5a816238b18)
+
 
 ### Project 2: [Project Name]
 
