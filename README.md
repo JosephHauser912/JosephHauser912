@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm a teacher who is passionate about transitio
 
 - **Name:** Joseph Hauser
 - **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/josephhauser912/)
-- **Email:** [joseph.a.hauser@gmail.com]
+- **Email:** [joseph.a.hauser@gmail.com](emailto:joseph.a.hauser@gmail.com)
 
 ## My Journey
 
