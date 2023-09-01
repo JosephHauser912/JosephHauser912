@@ -39,11 +39,13 @@ Feel free to explore these projects for more details.
 During my transition, I've been acquiring various skills related to data science and analytics:
 
 - Data Analysis
+- Excel VBA
 - Machine Learning
 - Data Visualization
 - Python Programming
 - SQL
 - Data Cleaning and Preprocessing
+- Web Scraping
 - Statistical Analysis
 
 ## Learning Resources
@@ -51,8 +53,10 @@ During my transition, I've been acquiring various skills related to data science
 Here are some of the resources I've found helpful during my transition:
 
 - [Coursera](https://www.coursera.org/)
+- [Khan Academy](https://www.khanacademy.com)
 - [edX](https://www.edx.org/)
 - [Kaggle](https://www.kaggle.com/)
+- [CodeCademy](https://www.codecademy.com)
 - [DataCamp](https://www.datacamp.com/)
 - [Books](books.md) (Link to a separate list of recommended books)
 
