@@ -19,7 +19,7 @@ Here are some of the projects I've worked on during my transition to data scienc
 ### Project 1: [Project Name]
 
 - Description: A brief description of the project.
-- GitHub Repository: [Link to Project Repository](https://github.com/yourusername/project1)
+- GitHub Repository: [Sample Work](https://github.com/JosephHauser912/Advanced-Data.git))
 - Technologies Used: List the technologies, libraries, and tools used in the project.
 
 ![Project 1 Screenshot](project1_screenshot.png)
