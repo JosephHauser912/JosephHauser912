@@ -59,7 +59,6 @@ Here are some of the resources I've found helpful during my transition:
 - [Kaggle](https://www.kaggle.com/)
 - [CodeCademy](https://www.codecademy.com)
 - [DataCamp](https://www.datacamp.com/)
-- [Books](books.md) (Link to a separate list of recommended books)
 
 ## Future Goals
 
@@ -72,7 +71,7 @@ I am committed to furthering my skills and knowledge in data science. My future 
 
 ## Contact
 
-I would love to connect with fellow data enthusiasts, professionals, and educators. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or email at [your@email.com].
+I would love to connect with fellow data enthusiasts, professionals, and educators. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/josephhauser912/) or email at [mailto:josephahauser@gmail.com].
 
 Thank you for visiting my GitHub repository and being a part of my journey as I transition into the exciting field of data science!
 
