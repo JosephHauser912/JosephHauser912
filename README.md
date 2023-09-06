@@ -28,10 +28,10 @@ Here are some of the projects I've worked on during my transition to data scienc
 ### Project 2: [Project Name]
 
 - Description: Another project description.
-- GitHub Repository: [Matplotlib Challenge](https://github.com/JosephHauser912/Matplotlib-Challenge.git))
+- GitHub Repository: MatplotLib Challenge [Matplotlib Challenge](https://github.com/JosephHauser912/Matplotlib-Challenge.git)
 - Technologies Used: Matplotlib, Pandas, PyPlot, SciPy
 
-[Boxplot Example](https://github.com/JosephHauser912/Matplotlib-Challenge/blob/953edb493299ce9c0a0638152474fa24aef1953b/Final_Tumor_Vol.png))
+![Boxplot Example](https://github.com/JosephHauser912/Matplotlib-Challenge/blob/953edb493299ce9c0a0638152474fa24aef1953b/Final_Tumor_Vol.png)
 
 Feel free to explore these projects for more details.
 
