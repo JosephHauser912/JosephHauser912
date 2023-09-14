@@ -16,7 +16,7 @@ I am currently in the process of transitioning from a teaching career to a data 
 
 Here are some of the projects I've worked on during my transition to data science:
 
-### Project 1: SQL Challenge
+### Project 1: Weather Reporting
 
 - Description: Using SQLAlchemy in Jupyter Notebook, design queries into weather reporting sqlite databases
 - GitHub Repository:[https://github.com/JosephHauser912/Advanced-Data.git](https://github.com/JosephHauser912/SQL_Challenge.git)
@@ -25,10 +25,10 @@ Here are some of the projects I've worked on during my transition to data scienc
 ![Project 1 Screenshot](https://github.com/JosephHauser912/JosephHauser912/assets/67341300/54ff5d31-358e-40dc-99fe-a5a816238b18)
 
 
-### Project 2: [Project Name]
+### Project 2: Data Visualization
 
-- Description: Another project description.
-- GitHub Repository: MatplotLib Challenge [Matplotlib Challenge](https://github.com/JosephHauser912/Matplotlib-Challenge.git)
+- Description: Using data visualization tools to review drug treatments
+- GitHub Repository: [Matplotlib Challenge](https://github.com/JosephHauser912/Matplotlib-Challenge.git)
 - Technologies Used: Matplotlib, Pandas, PyPlot, SciPy
 
 ![Boxplot Example](https://github.com/JosephHauser912/Matplotlib-Challenge/blob/953edb493299ce9c0a0638152474fa24aef1953b/Final_Tumor_Vol.png)
