@@ -71,7 +71,7 @@ I am committed to furthering my skills and knowledge in data science. My future 
 
 ## Contact
 
-I would love to connect with fellow data enthusiasts, professionals, and educators. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/josephhauser912/) or email at [email](https://www.linkedin.com/in/josephhauser912/).
+I would love to connect with fellow data enthusiasts, professionals, and educators. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/josephhauser912/) or email at [email](mailto:josephahauser@gmail.com).
 
 Thank you for visiting my GitHub repository and being a part of my journey as I transition into the exciting field of data science!
 
