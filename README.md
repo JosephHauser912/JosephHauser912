@@ -5,7 +5,7 @@ Welcome to my GitHub repository! I'm a teacher who is passionate about transitio
 ## About Me
 
 - **Name:** Joseph Hauser
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/josephhauser912/)
+- **LinkedIn:** [@JosephHauser912](https://www.linkedin.com/in/josephhauser912/)
 - **Email:** [joseph.a.hauser@gmail.com](mailto:joseph.a.hauser@gmail.com)
 
 ## My Journey
