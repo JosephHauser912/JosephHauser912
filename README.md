@@ -16,22 +16,24 @@ I am currently in the process of transitioning from a teaching career to a data 
 
 Here are some of the projects I've worked on during my transition to data science:
 
-### Project 1: Weather Reporting
+### Project 1: College Dashboard
 
-- Description: Using SQLAlchemy in Jupyter Notebook, design queries into weather reporting sqlite databases
-- GitHub Repository:[https://github.com/JosephHauser912/Advanced-Data.git](https://github.com/JosephHauser912/SQL_Challenge.git)
-- Technologies Used: matplotlib, pandas, datetime, sqlalchemy
+- Description: Discover & visualize the dataset to get insights. Include some key visuals and written conclusions. Report on relevant statistics. Discuss your steps for cleaning the data. Explain how you identify outliers and what you do with that information. Explain how you approach missing values in the data.
+- GitHub Repository:[https://github.com/JosephHauser912/SQL_Challenge.git](https://github.com/JosephHauser912/College_Dash)
+- Technologies Used: matplotlib, pandas, datetime, Dash, Render
+- View Dash [HERE](https://collegedash.onrender.com/)
 
-![Project 1 Screenshot](https://github.com/JosephHauser912/JosephHauser912/assets/67341300/54ff5d31-358e-40dc-99fe-a5a816238b18)
+![Project 1 Screenshot](https://github.com/user-attachments/assets/e96a5a34-460a-4e7e-aa09-bb30bda1ae72)
 
 
-### Project 2: Data Visualization
 
-- Description: Using data visualization tools to review drug treatments
-- GitHub Repository: [Matplotlib Challenge](https://github.com/JosephHauser912/Matplotlib-Challenge.git)
-- Technologies Used: Matplotlib, Pandas, PyPlot, SciPy
+### Project 2: Django Templates
 
-![Boxplot Example](https://github.com/JosephHauser912/Matplotlib-Challenge/blob/953edb493299ce9c0a0638152474fa24aef1953b/Final_Tumor_Vol.png)
+- Description: Using Django to create interactive web page to display tourist attraction information
+- GitHub Repository: [Django Tourism](https://github.com/JosephHauser912/django-tourism.git)
+- Technologies Used: Django, DTL, HTML, CSS
+
+![Home example](https://github.com/user-attachments/assets/fcce93c9-8d95-4289-b33f-5a928f27273a)
 
 Feel free to explore these projects for more details.
 
