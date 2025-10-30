@@ -1,4 +1,4 @@
-# Computer Science Teacher Transitioning to Data Scientist
+# Computer Science and Data Science Instructor
 
 Welcome to my GitHub repository! I'm a teacher who is passionate about transitioning into the field of data science. This repository serves as a platform to showcase my journey, projects, and progress in this exciting transition.
 
